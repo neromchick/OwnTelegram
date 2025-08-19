@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatApp", "ChatApp\ChatApp.csproj", "{017780FE-E08A-42EF-8209-B455180EABFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatServer", "CharServer\ChatServer.csproj", "{CB08274C-63D7-419F-A33A-6B52C225227D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{53BF8570-A6B9-4094-A233-D3A5EAE9049E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{017780FE-E08A-42EF-8209-B455180EABFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017780FE-E08A-42EF-8209-B455180EABFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017780FE-E08A-42EF-8209-B455180EABFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017780FE-E08A-42EF-8209-B455180EABFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB08274C-63D7-419F-A33A-6B52C225227D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB08274C-63D7-419F-A33A-6B52C225227D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB08274C-63D7-419F-A33A-6B52C225227D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB08274C-63D7-419F-A33A-6B52C225227D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53BF8570-A6B9-4094-A233-D3A5EAE9049E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BF8570-A6B9-4094-A233-D3A5EAE9049E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BF8570-A6B9-4094-A233-D3A5EAE9049E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BF8570-A6B9-4094-A233-D3A5EAE9049E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E25332AA-7931-4813-B1E8-07B0A979531D}
+	EndGlobalSection
+EndGlobal

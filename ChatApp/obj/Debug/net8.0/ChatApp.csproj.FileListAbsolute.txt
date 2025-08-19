@@ -1,0 +1,11 @@
+D:\HobbyHorsing\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.deps.json
+D:\HobbyHorsing\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.dll
+D:\HobbyHorsing\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.pdb
+D:\HobbyHorsing\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HobbyHorsing\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfoInputs.cache
+D:\HobbyHorsing\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfo.cs
+D:\HobbyHorsing\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.csproj.CoreCompileInputs.cache
+D:\HobbyHorsing\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.dll
+D:\HobbyHorsing\ChatApp\ChatApp\obj\Debug\net8.0\refint\ChatApp.dll
+D:\HobbyHorsing\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.pdb
+D:\HobbyHorsing\ChatApp\ChatApp\obj\Debug\net8.0\ref\ChatApp.dll

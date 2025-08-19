@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HobbyHorsing\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|d:\\hobbyhorsing\\chatapp\\charserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|solutionrelative:charserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|d:\\hobbyhorsing\\chatapp\\charserver\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|solutionrelative:charserver\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|d:\\hobbyhorsing\\chatapp\\charserver\\data\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|solutionrelative:charserver\\data\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|d:\\hobbyhorsing\\chatapp\\charserver\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|solutionrelative:charserver\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\CharServer.csproj|d:\\hobbyhorsing\\chatapp\\charserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\CharServer.csproj|solutionrelative:charserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|d:\\hobbyhorsing\\chatapp\\charserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|solutionrelative:charserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|d:\\hobbyhorsing\\chatapp\\charserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|solutionrelative:charserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|d:\\hobbyhorsing\\chatapp\\charserver\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB08274C-63D7-419F-A33A-6B52C225227D}|CharServer\\ChatServer.csproj|solutionrelative:charserver\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BF8570-A6B9-4094-A233-D3A5EAE9049E}|ChatClient\\ChatClient.csproj|d:\\hobbyhorsing\\chatapp\\chatclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53BF8570-A6B9-4094-A233-D3A5EAE9049E}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CharServer\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CharServer\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T22:11:50.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CharServer\\Services\\AuthService.cs",
+              "ToolTip": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Services\\AuthService.cs",
+              "RelativeToolTip": "CharServer\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T21:58:47.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Program.cs",
+              "RelativeDocumentMoniker": "CharServer\\Program.cs",
+              "ToolTip": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Program.cs",
+              "RelativeToolTip": "CharServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T21:10:43.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\HobbyHorsing\\ChatApp\\CharServer\\ChatHub.cs",
+              "RelativeDocumentMoniker": "CharServer\\ChatHub.cs",
+              "ToolTip": "D:\\HobbyHorsing\\ChatApp\\CharServer\\ChatHub.cs",
+              "RelativeToolTip": "CharServer\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T21:00:42.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Startup.cs",
+              "RelativeDocumentMoniker": "CharServer\\Startup.cs",
+              "ToolTip": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Startup.cs",
+              "RelativeToolTip": "CharServer\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:34:36.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatDbContext.cs",
+              "DocumentMoniker": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Data\\ChatDbContext.cs",
+              "RelativeDocumentMoniker": "CharServer\\Data\\ChatDbContext.cs",
+              "ToolTip": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Data\\ChatDbContext.cs",
+              "RelativeToolTip": "CharServer\\Data\\ChatDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:08:49.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "CharServer\\Models\\Message.cs",
+              "ToolTip": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Models\\Message.cs",
+              "RelativeToolTip": "CharServer\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:02:19.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CharServer\\Models\\User.cs",
+              "ToolTip": "D:\\HobbyHorsing\\ChatApp\\CharServer\\Models\\User.cs",
+              "RelativeToolTip": "CharServer\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:49:31.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\HobbyHorsing\\ChatApp\\ChatClient\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatClient\\Form1.cs",
+              "ToolTip": "D:\\HobbyHorsing\\ChatApp\\ChatClient\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ChatClient\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:17:07.458Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
